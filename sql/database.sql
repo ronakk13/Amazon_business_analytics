@@ -1,0 +1,3 @@
+CREATE DATABASE amazon_business_analytics;
+
+USE amazon_business_analytics;
